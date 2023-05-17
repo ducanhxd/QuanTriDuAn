@@ -1,0 +1,89 @@
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\bin\Debug\VPPHongHa.exe.config
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\bin\Debug\VPPHongHa.exe
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\bin\Debug\VPPHongHa.pdb
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.csproj.AssemblyReference.cache
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.csproj.SuggestedBindingRedirects.cache
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.frmDangKi.resources
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.frmDangNhap.resources
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.Properties.Resources.resources
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.csproj.GenerateResource.cache
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.csproj.CoreCompileInputs.cache
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.exe
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.pdb
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.frmHeThong.resources
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.QuanLy1.frmHoaDon.resources
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.QuanLy1.frmNhanVien.resources
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.QuanLy1.frmNhaCungCap.resources
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.QuanLy1.frmKhachHang.resources
+F:\BAI TAP\cong nghe phan mem cnpm\C#\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.QuanLy1.frmSanPham.resources
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\VPPHongHa.exe.config
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\VPPHongHa.exe
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\VPPHongHa.pdb
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\EnvDTE.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\stdole.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.csproj.AssemblyReference.cache
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.csproj.SuggestedBindingRedirects.cache
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.frmDangKi.resources
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.frmDangNhap.resources
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.frmHeThong.resources
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.Properties.Resources.resources
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.QuanLy1.frmHoaDon.resources
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.QuanLy1.frmKhachHang.resources
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.QuanLy1.frmNhaCungCap.resources
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.QuanLy1.frmNhanVien.resources
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.QuanLy1.frmSanPham.resources
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.csproj.GenerateResource.cache
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.csproj.CoreCompileInputs.cache
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.csproj.CopyComplete
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.exe
+F:\BAI_TAP\_Ki 1 nam 3 2022\cong nghe phan mem cnpm (done)\C# - Copy\VPPHongHa\VPPHongHa\obj\Debug\VPPHongHa.pdb
